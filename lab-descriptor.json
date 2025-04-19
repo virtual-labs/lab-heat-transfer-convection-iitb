@@ -15,42 +15,42 @@
         "name": "Fundamental of Fluid Flow",
         "short-name": "fundamental-fluid-flow",
         "repo": "https://github.com/virtual-labs/exp-fundamental-fluid-flow-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     },
     {
         "name": "Thermal Boundary Layer",
         "short-name": "thermal-boundary-layer",
         "repo": "https://github.com/virtual-labs/exp-thermal-boundary-layer-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     },
     {
         "name": "External and Internal Flow",
         "short-name": "external-internal-flow",
         "repo": "https://github.com/virtual-labs/exp-external-internal-flow-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     },
     {
         "name": "Natural Convection, Local and Average Heat Transfer Coefficient",
         "short-name": "convection-heat-coefficient",
         "repo": "https://github.com/virtual-labs/exp-convection-heat-coefficient-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     },
     {
         "name": "Natural Convection and Unsteady, Natural Convection and Radiation",
         "short-name": "convection-radiation",
         "repo": "https://github.com/virtual-labs/exp-convection-radiation-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     },
     {
         "name": "Effect of Position of Surface",
         "short-name": "effect-position-surface",
         "repo": "https://github.com/virtual-labs/exp-effect-position-surface-iitb",
-        "tag": "v1.0.0",
+        "tag": "v1.0.1",
         "deploy": true
     }
 ],
